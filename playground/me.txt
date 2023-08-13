@@ -1,0 +1,5 @@
+{{#user}
+Name: Aryavir Malik
+Skills: HTML, CSS, Tailwind, JS, Next.js,React.js,Node.js,Express.js,MongoDB,Flutter
+Email: aryavirmalik20@@gmail.com
+{{/user}}
